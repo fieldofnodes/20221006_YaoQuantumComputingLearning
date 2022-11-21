@@ -1,0 +1,8 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+CuYao = "b48ca7a8-dd42-11e8-2b8e-1b7706800275"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
+YaoExtensions = "7a06699c-c960-11e9-3c98-9f78548b5f0f"
+YaoPlots = "32cfe2d9-419e-45f2-8191-2267705d8dbc"
